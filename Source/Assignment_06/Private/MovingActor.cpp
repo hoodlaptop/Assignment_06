@@ -1,4 +1,4 @@
-#include "../Public/MovingActor.h"
+#include "MovingActor.h"
 
 AMovingActor::AMovingActor()
 {

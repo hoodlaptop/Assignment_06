@@ -1,4 +1,4 @@
-#include "../Public/RotatingActor.h"
+#include "RotatingActor.h"
 
 ARotatingActor::ARotatingActor()
 {

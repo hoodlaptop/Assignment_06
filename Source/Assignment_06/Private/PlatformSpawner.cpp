@@ -1,4 +1,4 @@
-#include "../Public/PlatformSpawner.h"
+#include "PlatformSpawner.h"
 
 APlatformSpawner::APlatformSpawner()
 {
